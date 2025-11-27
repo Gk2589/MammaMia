@@ -1,6 +1,9 @@
-# static.py
-
 HTML = """
+
+don't care abaout them all
+Cause all i want is to be loved
+And all i care about is you are stuck on me i like tattoo
+no i don't"""
 <!DOCTYPE html>
 <html>
 <head>
